@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Matrix
+comment0.text=\ Mustafa\ Nafia\r\n\ Course\:\ C202\r\n\ Professor\:\ Dr.Walsh\r\n
+comment1.params=row\ col
+comment1.target=Matrix(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=e
+comment3.target=void\ ScaleMult(int)
+comment4.params=m2
+comment4.target=Matrix\ multiply(Matrix)
+numComments=5
